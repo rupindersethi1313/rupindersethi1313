@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Biomedical Instrumentation and technics
 - 💞️ I’m looking to collaborate on AI in healthcare
 - 📫 How to reach me email/messgae 
-- 😄 Pronouns: ...
+- 😄 Pronouns:He/Him
 - ⚡ Fun fact: Can't live without music
 
 <!---
